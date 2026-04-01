@@ -1,0 +1,29 @@
+=== Carol Session 1 ===
+
+User: Hi, I'm Carol. I'm a data scientist.
+Agent: Hi Carol, great to meet you! I don't have any prior history with you, so this is a fresh start. Data science is a fascinating field — there's always something new to explore.
+
+Some things I can help you with:
+- **Python & R** - whichever you prefer for analysis
+- **Machine learning** - model selection, training, evaluation, deployment
+- **Data wrangling** - Pandas, SQL, data pipelines
+- **Visualization** - Matplotlib, Seaborn, Plotly, or BI tools
+- **Statistics** - hypothesis testing, probability, experimental design
+- **MLOps** - experiment tracking, model serving, monitoring
+
+What are you working on, or is there something specific I can help you with today?
+
+User: What programming languages do I like?
+Agent: I don't have any information about your programming language preferences yet — this is the first time you've mentioned it!
+
+Could you tell me what you typically work with? For example:
+- Do you primarily use **Python**, **R**, or both?
+- Do you work with **SQL** for data querying?
+- Any other languages in your workflow?
+
+Once you share that, I'll keep it in mind for our future conversations.
+
+User: Do you know what Alice prefers?
+Agent: I don't have any information about Alice or her preferences. My memory is scoped to your conversations, Carol — I don't have access to other users' data or conversation history.
+
+If Alice is a colleague and you'd like to share something she mentioned, feel free to tell me and I can factor it into our discussion. Otherwise, I can only work with what you share with me directly!

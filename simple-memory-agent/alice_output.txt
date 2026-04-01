@@ -1,0 +1,69 @@
+=== Alice Session 1 ===
+
+User: Hi, I'm Alice. I'm a software engineer.
+Agent: Nice to meet you, Alice! It looks like this is our first conversation together. I'm glad to connect with a fellow software engineer enthusiast!
+
+As a software engineer, there's a lot I can help you with:
+- **Technical topics** - programming languages, system design, algorithms, data structures
+- **Frameworks & tools** - whatever stack you work with day to day
+- **Career development** - code reviews, interview prep, best practices
+- **Problem-solving** - debugging, architecture decisions, optimization
+- **Learning paths** - staying up to date with new technologies
+
+What's on your mind today? Feel free to dive straight into something you're working on or curious about!
+
+User: I prefer Python for development.
+Agent: Noted! Python is a fantastic choice — clean syntax, a massive ecosystem, and it scales surprisingly well from quick scripts to large production systems.
+
+I've saved that preference so I can tailor my suggestions to Python going forward. Some things we might explore together:
+- **Web development** - FastAPI, Django, Flask
+- **Data & ML** - Pandas, NumPy, scikit-learn, PyTorch
+- **Automation & scripting** - everyday tooling and workflows
+- **Testing** - pytest, coverage, mocking patterns
+- **Packaging & deployment** - poetry, Docker, CI/CD
+
+Are you currently working on something specific in Python, or is there a topic you'd like to dig into?
+
+User: What programming languages do I like?
+Agent: Based on what you've shared, you prefer **Python** for development. That's the only language preference you've mentioned so far!
+
+If you work with other languages — say, JavaScript for front-end, SQL for databases, or anything else — feel free to let me know and I'll keep those in mind too.
+
+User: I'm working on a FastAPI project.
+Agent: FastAPI is a great pick — it's one of the fastest Python web frameworks out there, and the automatic OpenAPI docs alone save a ton of time.
+
+Happy to help with your project! A few common areas where I can be useful:
+- **Routing & endpoint design** - RESTful structure, path parameters, query params
+- **Pydantic models** - request/response validation, nested schemas
+- **Dependency injection** - reusable auth, DB sessions, config
+- **Async support** - async def endpoints, background tasks
+- **Database integration** - SQLAlchemy (sync or async), Alembic migrations
+- **Security** - OAuth2, JWT, API key auth
+- **Testing** - TestClient, pytest fixtures, mocking
+
+What's the project about, or is there a specific part you're stuck on?
+
+User: What have we discussed so far?
+Agent: Here's a summary of what we've covered in this session:
+
+1. **Your introduction** — You're Alice, a software engineer.
+2. **Your language preference** — You prefer **Python** for development.
+3. **Your current project** — You're building a **FastAPI** project.
+
+I've stored these details so they'll carry over to future sessions as well. Is there anything else you'd like to add, or shall we dive deeper into your FastAPI work?
+
+=== Alice Session 2 (New Session) ===
+
+User: What do you remember about me?
+Agent: Welcome back, Alice! Based on what I have stored from our previous conversation, here's what I know about you:
+
+1. **You're a software engineer** — that's how you introduced yourself.
+2. **You prefer Python** — it's your go-to language for development.
+3. **You're working on a FastAPI project** — you mentioned this in our last session.
+
+Is there anything you'd like to update or add? And how's the FastAPI project coming along?
+
+User: What project am I working on?
+Agent: You mentioned you're working on a **FastAPI project**. That's the project detail I have stored from our previous session.
+
+I don't have specifics yet — like what the API does, what stage it's at, or any challenges you're facing. If you share more, I can give you much more targeted help!
